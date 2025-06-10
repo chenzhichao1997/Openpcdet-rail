@@ -1,7 +1,7 @@
 CLASS_NAMES: ["van","pedestrian","bus"]
 
 DATA_CONFIG:
-    _BASE_CONFIG_: osdar23_cfg/osdar23_data_cfg.yaml
+    _BASE_CONFIG_: airR24_cfg/air24_data_cfg.yaml
 
 MODEL:
     NAME: VoxelNeXt
