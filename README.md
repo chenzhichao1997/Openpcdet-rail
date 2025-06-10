@@ -24,7 +24,6 @@ You can download the customized railway dataset from Baidu Netdisk:
 - Link: [https://pan.baidu.com/s/19Cen11luxb_AaL8FCxsDLA?pwd=uj9p](https://pan.baidu.com/s/19Cen11luxb_AaL8FCxsDLA?pwd=uj9p)  
 - Extraction Code: `uj9p`  
 
-After downloading, unzip the dataset and place it under the `data/railway_dataset/` directory.
 
 ---
 
